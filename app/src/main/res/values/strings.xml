@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atividade 03</string>
+    <string name="Valor_Gasolina">Valor Gasolina (R$)</string>
+    <string name="Valor_Etanol">Valor Etanol (R$)</string>
+    <string name="Calcular">Calcular</string>
+</resources>
